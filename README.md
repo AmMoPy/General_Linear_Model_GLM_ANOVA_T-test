@@ -35,6 +35,4 @@ We've previously discussed the inner working of Ordinary least squares regressio
     * <a href="#scra" style='color:#dc143c'>Starting from scratch - Insurance Dataset</a>
     * <a href="#hp" style='color:#dc143c'>House Price Dataset</a>
 
-Notebook @ [Kaggle](https://www.kaggle.com/code/amrmuhammad/glm-anova)
-
 Check my [YouTube Channel](https://www.youtube.com/@ammopy)
