@@ -1,6 +1,6 @@
 ### Background
 
-We've previously discussed the inner working of Ordinary least squares regression [here](https://github.com/AmMoPy/Fifty_shades_of_OLS_), it's time to focus on statistical analysis and uncovering patterns using [The General Linear Model (GLM)](https://en.wikipedia.org/wiki/General_linear_model).
+We've previously discussed the inner working of Ordinary least squares regression [here](https://github.com/AmMoPy/Simple_Multiple_Bayesian_Linear_Regression), it's time to focus on statistical analysis and uncovering patterns using [The General Linear Model (GLM)](https://en.wikipedia.org/wiki/General_linear_model).
 
 ##### We'll be exploring: 
 - Practical application of GLM covering ANOVA and Post hoc analysis
@@ -36,3 +36,5 @@ We've previously discussed the inner working of Ordinary least squares regressio
     * <a href="#hp" style='color:#dc143c'>House Price Dataset</a>
 
 Notebook @ [Kaggle](https://www.kaggle.com/code/amrmuhammad/glm-anova)
+
+Check my [YouTube Channel](https://www.youtube.com/@ammopy)
